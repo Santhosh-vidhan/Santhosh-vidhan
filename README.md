@@ -7,8 +7,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/Santhosh-vidhan?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: SanthoshVidhan](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/santhosh-vidhan-2608/)][linkedin]
 
-
-- 🔭 &ensp;I’m currently studying at [SREC, Tamilnadu, India.](https://www.srec.ac.in/)
+## About me:
+- 🔭 &ensp;I’m currently studying at [SREC, Tamilnadu, India.](https://www.srec.ac.in/) 
 
 - 🌱 &ensp;I’m currently learning **Deep Learning, Flutter, Unreal Engine**
 
@@ -22,7 +22,28 @@
 
 - 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email]
 
-### Network with me:
+## On-going Projects:
+
+  ### Industry Project:
+    - 🔍  Name - Mission_Vision_System
+    
+    - 🔬  Domain - Computer Vision (Mission Vision System)
+
+    - 📃  Description - A Deep learning model to classify and segment defects from high-end metallic materials 
+
+    - 🛠   Pipeline - Confidential 
+
+  ### Personal Project:
+    - 🔍  Name - Med_Intell
+    
+    - 🔬  Domain - Cross-Platform Application 
+
+    - 📃  Description - A mobile app to read doctor's prescription and help retail pharmaceutical companies to sell through a common online medium 
+
+    - 🛠  Pipeline - Soon to be Open-source
+
+
+## Connect with me:
 
 
 [<img align="left" alt="Santhosh Vidhan | YouTube" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fyoutube.png?alt=media" />][youtube]
@@ -32,9 +53,11 @@
 
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
 <p align="left"> &ensp;<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="28" height="28"/> &ensp;&ensp;<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="28" height="28"/>&ensp;&ensp;<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="28" height="28"/>&ensp;&ensp;<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="28" height="28"/>&ensp;&ensp;<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="28" height="28"/>&ensp;&ensp;<img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="Google Analytics" width="28" height="28"/></p>
+
+## Git-hub Logs: 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-vidhan&layout=compact&hide=html" alt="Santhosh-Vidhan" /></p>
 
@@ -46,17 +69,5 @@
 [linkedin]: https://www.linkedin.com/in/santhosh-vidhan-2608/
 [github]: https://github.com/Santhosh-vidhan
 [email]: santhosh.vidhan26@gmail.com
-<!--
-**Santhosh-vidhan/Santhosh-vidhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
