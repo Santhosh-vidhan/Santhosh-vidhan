@@ -68,6 +68,6 @@
 [youtube]: https://www.youtube.com/channel/UC25iW4sjKv3XJvTqdl-7MPg
 [linkedin]: https://www.linkedin.com/in/santhosh-vidhan-2608/
 [github]: https://github.com/Santhosh-vidhan
-[email]: santhosh.vidhan26@gmail.com
+[email]: mailto:santhosh.vidhan26@gmail.com
 
 
