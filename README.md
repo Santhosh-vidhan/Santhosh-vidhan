@@ -59,7 +59,7 @@
 
 ## Git-hub Logs: 
 
-<p align='center'><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-vidhan&layout=compact&hide=html" alt="Santhosh-Vidhan" /> <img align="left" src="https://github-readme-stats.vercel.app/api?username=Santhosh-vidhan&show_icons=true" alt="Santhosh-Vidhan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-vidhan&layout=compact&hide=html" alt="Santhosh-Vidhan" /> <img align="right" src="https://github-readme-stats.vercel.app/api?username=Santhosh-vidhan&show_icons=true" alt="Santhosh-Vidhan" /></p>
 
 
 [twitter]: https://twitter.com/intent/follow?original_referer=https://twitter.com/VidhanSanthosh&screen_name=VidhanSanthosh
