@@ -64,7 +64,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Santhosh-vidhan&show_icons=true" alt="Santhosh-Vidhan" /></p>
 
 
-[twitter]: https://twitter.com/intent/follow?original_referer=https://twitter.com/VidhanSanthosh&screen_name=Santhosh-Vidhan
+[twitter]: https://twitter.com/intent/follow?original_referer=https://twitter.com/VidhanSanthosh&screen_name=VidhanSanthosh
 [youtube]: https://www.youtube.com/channel/UC25iW4sjKv3XJvTqdl-7MPg
 [linkedin]: https://www.linkedin.com/in/santhosh-vidhan-2608/
 [github]: https://github.com/Santhosh-vidhan
