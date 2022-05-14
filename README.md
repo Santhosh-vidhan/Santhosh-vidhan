@@ -27,7 +27,7 @@
   ### Industry Project:
     - 🔍  Name - Mission_Vision_System
     
-    - 🔬  Domain - Computer Vision (Mission Vision System)
+    - 🔬  Domain - Computer Vision
 
     - 📃  Description - A Deep learning model to classify and segment defects from high-end metallic materials 
 
