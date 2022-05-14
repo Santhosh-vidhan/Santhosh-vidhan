@@ -16,9 +16,9 @@
 
 - ⚡ &ensp;Selenophile -- Experimentalist -- Philosophile
 
-- 😄 &ensp;Pronouns:  He/him
-
 - 🏍 &ensp;Fun fact: A developer who loves to ride bike
+
+- 😄 &ensp;Pronouns:  He/him
 
 - 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email]
 
