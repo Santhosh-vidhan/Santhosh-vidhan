@@ -1,5 +1,5 @@
 <h1 align="center"> Hello 👋, I'm <a href="https://www.youtube.com/channel/UC25iW4sjKv3XJvTqdl-7MPg">Santhosh Vidhan!</a></h1>
-<h3 align="center">A self-taught developer with an desire to achieve freedom, by making it as an obsessions🤞</h3>
+<h3 align="center">A self-taught developer with an desire to achieve the best version of myself 🤞</h3>
 
 
 [![Youtube](https://img.shields.io/static/v1?label=SanthoshVidhan&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
