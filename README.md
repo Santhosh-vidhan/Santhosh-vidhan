@@ -25,7 +25,7 @@
 ## On-going Projects:
 
   ### Industry Project:
-    - 🔍  Name - Machine_Vision_System
+    - 🔍  Name - Mission_Vision_System
     
     - 🔬  Domain - Computer Vision
 
