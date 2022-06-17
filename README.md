@@ -12,7 +12,7 @@
 
 - 🌱 &ensp;I’m currently learning **Deep Learning, Flutter, Unreal Engine**
 
-- 👯 &ensp;I’m happy to collaborate with **other content creators**
+- 👯 &ensp;I’m happy to collaborate with **other Developers and Content creators**
 
 - ⚡ &ensp;Selenophile -- Experimentalist -- Philosophile
 
