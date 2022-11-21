@@ -8,9 +8,9 @@
 [![Linkedin: SanthoshVidhan](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/santhosh-vidhan-2608/)][linkedin]
 
 ## About me:
-- 🔭 &ensp;I’m currently studying at [SREC, Tamilnadu, India.](https://www.srec.ac.in/) 
+- 🔭 &ensp;I’m currently pursuing my UG (BTech Information Technology) at [SREC, Tamilnadu, India.](https://www.srec.ac.in/) 
 
-- 🌱 &ensp;I’m currently learning **Deep Learning, Flutter, Unreal Engine**
+- 🌱 &ensp;I’m currently learning **Deep Learning, Software development, Unreal Engine**
 
 - 👯 &ensp;I’m happy to collaborate with **other Developers and Content creators**
 
