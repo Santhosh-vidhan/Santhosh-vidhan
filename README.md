@@ -19,23 +19,23 @@
 
 
 
-  ### Industry Project:
-    - 🔍  Name - Machine_Vision_System
-    
-    - 🔬  Domain - Computer Vision
+### Industry Project:
+  - 🔍  Name - Machine_Vision_System
 
-    - 📃  Description - A Deep learning model to classify and segment defects from high-end metallic materials 
+  - 🔬  Domain - Computer Vision
 
-    - 🛠   Pipeline - Confidential 
+  - 📃  Description - A Deep learning model to classify and segment defects from high-end metallic materials 
 
-  ### Personal Project:
-    - 🔍  Name - Med_Intell
-    
-    - 🔬  Domain - Cross-Platform Application 
+  - 🛠   Pipeline - Confidential 
 
-    - 📃  Description - A mobile app to read doctor's prescription and help retail pharmaceutical companies to sell through a common online medium 
+### Personal Project:
+  - 🔍  Name - Med_Intell
 
-    - 🛠  Pipeline - Soon to be Open-source
+  - 🔬  Domain - Cross-Platform Application 
+
+  - 📃  Description - A mobile app to read doctor's prescription and help retail pharmaceutical companies to sell through a common online medium 
+
+  - 🛠  Pipeline - Soon to be Open-source
 
 
 ## Connect with me:
