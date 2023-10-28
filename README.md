@@ -1,4 +1,4 @@
-<h1 align="center"> Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm <a href="https://www.youtube.com/channel/UC25iW4sjKv3XJvTqdl-7MPg">Santhosh Vidhan!</a></h1>
+<h1 align="center"> Hello, I'm <a href="https://www.youtube.com/channel/UC25iW4sjKv3XJvTqdl-7MPg">Santhosh Vidhan!</a></h1>
 <h3 align="center">I am a self-taught developer with a strong aspiration to build AI products. 🤞</h3>
 
 
