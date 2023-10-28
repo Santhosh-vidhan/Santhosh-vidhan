@@ -5,7 +5,7 @@
 ## About me:
 - 🔭 &ensp;I’m currently pursuing my UG (B.Tech Information Technology) at [SREC, Tamilnadu, India.](https://www.srec.ac.in/) 
 
-- 🌱 &ensp;I’m currently learning **Deep Learning, Software development, Unreal Engine**
+- 🌱 &ensp;I’m currently learning **Deep Learning, Software development, Unreal Engine** and building Automation systems with AI
 
 - 👯 &ensp;I’m happy to collaborate with **other Developers and Content creators**
 
@@ -16,26 +16,6 @@
 - 😄 &ensp;Pronouns:  He/him
 
 - 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email]
-
-
-
-### Industry Project:
-  - 🔍  Name - Machine_Vision_System
-
-  - 🔬  Domain - Computer Vision
-
-  - 📃  Description - A Deep learning model to classify and segment defects from high-end metallic materials 
-
-  - 🛠   Pipeline - Confidential 
-
-### Personal Project:
-  - 🔍  Name - Med_Intell
-
-  - 🔬  Domain - Cross-Platform Application 
-
-  - 📃  Description - A mobile app to read doctor's prescription and help retail pharmaceutical companies to sell through a common online medium 
-
-  - 🛠  Pipeline - Soon to be Open-source
 
 
 ## Connect with me:
