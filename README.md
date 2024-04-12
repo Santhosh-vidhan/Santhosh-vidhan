@@ -1,19 +1,17 @@
 <h1 align="center"> Hello, I'm <a href="https://www.youtube.com/channel/UC25iW4sjKv3XJvTqdl-7MPg">Santhosh Vidhan!</a></h1>
-<h3 align="center">I am a self-taught developer with a strong aspiration to build AI products. 🤞</h3>
+<h3 align="center">Applied AI & System Automation. Building and experimenting with AI in Hardware.</h3>
 
 
 ## About me:
 - 🔭 &ensp;I’m currently pursuing my UG (B.Tech Information Technology) at [SREC, Tamilnadu, India.](https://www.srec.ac.in/) 
 
-- 🌱 &ensp;I’m currently learning **Deep Learning, Software development, Unreal Engine** and building Automation systems with AI
+- 🌱 &ensp;I’m currently learning **Deep Learning, Software Development, Unreal Engine** and building Automation systems with AI
 
 - 👯 &ensp;I’m happy to collaborate with **other Developers and Content creators**
 
 - ⚡ &ensp;Selenophile -- Experimentalist -- Philosophile
 
 - 🏍 &ensp;Fun fact: A developer who loves to ride bike
-
-- 😄 &ensp;Pronouns:  He/him
 
 - 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email]
 
