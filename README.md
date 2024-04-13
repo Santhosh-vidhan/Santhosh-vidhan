@@ -30,10 +30,6 @@
 
 <p align="left"> &ensp;<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="28" height="28"/> &ensp;&ensp;<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="28" height="28"/>&ensp;&ensp;<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="28" height="28"/>&ensp;&ensp;<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="28" height="28"/>&ensp;&ensp;<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="28" height="28"/>&ensp;&ensp;<img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="Google Analytics" width="28" height="28"/></p>
 
-## Git-hub Logs: 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-vidhan&layout=compact&hide=html" width='400' alt="Santhosh-Vidhan" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Santhosh-vidhan&show_icons=true" width='400' alt="Santhosh-Vidhan" /></p>
-
 
 [twitter]: https://twitter.com/intent/follow?original_referer=https://twitter.com/VidhanSanthosh&screen_name=VidhanSanthosh
 [youtube]: https://www.youtube.com/channel/UC25iW4sjKv3XJvTqdl-7MPg
