@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, I'm <a href="https://www.youtube.com/channel/UC25iW4sjKv3XJvTqdl-7MPg">Santhosh Vidhan!</a></h1>
-<h3 align="center">Applied AI & System Automation. Building and experimenting with AI in Hardware | Quality Manufacturing.</h3>
+<h3 align="center">Applied AI & System Automation. Experimenting with AI in Hardware | Quality Manufacturing.</h3>
 
 
 ## About me:
